@@ -1,6 +1,8 @@
 RENCANA KONTEN FANDI
 
 - DJANGO : bikn web server
+-django : init
 - CPP  : belajar awal
 - JS  :  belum tentu
 - C : BELUM TENTU
+- python
