@@ -1,0 +1,5 @@
+RENCANA KONTEN FANDI
+
+- DJANGO : bikn web server
+- CPP  : belajar awal
+- JS  :  belum tentu
