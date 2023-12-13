@@ -1,6 +1,7 @@
 RENCANA KONTEN FANDI
 
 - DJANGO : bikn web server
+
 -django : init
 - django expert
 - CPP  : belajar awal
