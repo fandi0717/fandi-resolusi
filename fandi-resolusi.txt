@@ -1,3 +1,5 @@
 FANDI RESOLUSI
 - Menjadi python developer expert
 - Belajar Bahasa Pemrograman lain : C++
+- Membuat bahasa pemrogram baru
+- DLL
